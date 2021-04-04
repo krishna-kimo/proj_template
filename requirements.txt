@@ -1,2 +1,5 @@
 ##
-pandas
+validators
+bs4
+json
+
